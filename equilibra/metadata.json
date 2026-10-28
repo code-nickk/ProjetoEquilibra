@@ -1,0 +1,6 @@
+{
+  "name": "Equilibra",
+  "description": "Aplicação simples e intuitiva para controle financeiro pessoal, gestão de entradas e saídas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
